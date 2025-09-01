@@ -54,7 +54,7 @@ jupyter notebook model.ipynb
 ---
 
 ## 📊 Results
-- Achieved **~90%+ accuracy** on the validation dataset
+- Achieved **~95% accuracy** on the validation dataset
 - Model generalizes well on unseen images
 
 ---
